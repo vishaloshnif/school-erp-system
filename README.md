@@ -7,9 +7,7 @@ Introduction: School ERP System is a large database system which can be used for
 
 
 
-Installation instruction :
-
-
+Installation instruction :First we
 
 
 
